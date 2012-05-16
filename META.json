@@ -39,7 +39,7 @@
    "provides" : {
       "feature::loop" : {
          "file" : "lib/feature/loop.pm",
-         "version" : "v1.3.0"
+         "version" : "v1.2.0"
       }
    },
    "release_status" : "stable",
